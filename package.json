@@ -4,8 +4,7 @@
   "description": "server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "json:server":"json-server --watch db.json"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
